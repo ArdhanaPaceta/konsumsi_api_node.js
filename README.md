@@ -7,6 +7,7 @@ MENGAMBIL DATA API DENGAN PHP
 KODE : 
 
 
+
 [post.php](indexpost.php)
 
 HASILNYA
@@ -15,7 +16,8 @@ HASILNYA
 
 MENGAMBIL DATA API DENGAN PHP
 
-KODE :
+KODE : 
+
 
 [post.js](indexpost.js)
 
