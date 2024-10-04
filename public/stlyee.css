@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #b22222; /* Warna latar belakang lebih lembut */
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #fff; /* Warna teks agar lebih kontras dengan latar belakang */
+    font-size: 2em; /* Ukuran font lebih besar */
+    margin-bottom: 20px; /* Jarak bawah untuk h1 */
+}
+
+form {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+form label {
+    font-size: 1rem;
+    color: #333;
+}
+
+form input[type="text"] {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+form button {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Transisi halus saat hover */
+}
+
+form button:hover {
+    background-color: #0056b3; /* Warna lebih gelap saat hover */
+}
+
+form a {
+    padding: 8px 15px;
+    background-color: #6c757d;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease; /* Transisi halus saat hover */
+}
+
+form a:hover {
+    background-color: #5a6268; /* Warna lebih gelap saat hover */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: #fff; /* Warna tabel lebih netral */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Bayangan untuk efek modern */
+    border-radius: 8px; /* Sudut tabel membulat */
+    overflow: hidden; /* Pastikan sudut membulat terlihat */
+}
+
+table, th, td {
+    border: 1px solid #ddd; /* Border tabel dengan warna lebih lembut */
+}
+
+th, td {
+    padding: 15px; /* Ruang di dalam sel tabel */
+    text-align: left; /* Teks rata kiri */
+}
+
+th {
+    background-color: #4caf50; /* Warna latar belakang header tabel */
+    color: white; /* Warna teks header tabel */
+    text-transform: uppercase; /* Teks header kapital */
+    font-weight: 600; /* Berat teks header */
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9; /* Warna untuk baris genap */
+}
+
+tr:hover {
+    background-color: #f1f1f1; /* Warna untuk baris saat hover */
+    cursor: pointer; /* Ubah kursor saat hover */
+}
+
+td {
+    color: #333; /* Warna teks sel tabel */
+    font-size: 0.95rem; /* Ukuran font sel tabel */
+}
