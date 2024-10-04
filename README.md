@@ -6,7 +6,8 @@ MENGAMBIL DATA API DENGAN PHP
 
 KODE : 
 
-[text](/assets/indexpost.php)
+
+[post.php](indexpost.php)
 
 HASILNYA
 
@@ -16,7 +17,7 @@ MENGAMBIL DATA API DENGAN PHP
 
 KODE :
 
-[text](/assets/indexpost.js)
+[post.js](indexpost.js)
 
 HASILNYA
 
@@ -28,7 +29,7 @@ PHP
 
 KODE :
 
-[text](indexcomments.php)
+[comments.php](indexcomments.php)
 
 HASILNYA
 
@@ -38,7 +39,7 @@ NODE.js
 
 KODE :
 
-[text](jsoncomments.js)
+[comments.js](jsoncomments.js)
 
 HASILNYA
 
@@ -50,7 +51,7 @@ HASILNYA
 PHP
 
 KODE :
-[text](indexpost.php)
+[post.php](indexpost.php)
 
 HASILNYA
 ![alt text](/assets/image-4.png)
@@ -59,7 +60,7 @@ HASILNYA
 NODE.js
 
 KODE :
-[text](indexpost.js)
+[post.js](indexpost.js)
 
 HASILNYA
 ![alt text](/assets/image-5.png)
